@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, I'm Nagraj Nandal 👋<br>I am a passionate software developer with a focus on [your area of expertise, e.g., Web Development, AI, etc.].<br><br>## 🚀 About Me<br>- 🔭 I’m currently working on codewithnagraj.<br>- 🌱 I’m currently learning Ai and Machine Larning.<br>- 👯 I’m looking to collaborate on ShiledX.<br>- 💬 Ask me about MERN Development .<br>- 📫 How to reach me: nagrajnandal43@gmail.com.<br><br>
+# Hello, I'm Nagraj Nandal 👋<br>I am a passionate software developer with a focus on MERN development , cross platform apps , DSA with Java and AI.<br><br>## 🚀 About Me<br>- 🔭 I’m currently working on codewithnagraj.<br>- 🌱 I’m currently learning Ai and Machine Larning.<br>- 👯 I’m looking to collaborate on ShiledX.<br>- 💬 Ask me about MERN Development .<br>- 📫 How to reach me: nagrajnandal43@gmail.com.<br><br>
 
 
 ## 🌐 Socials:
