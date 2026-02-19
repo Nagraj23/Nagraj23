@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, I'm Nagraj Nandal 👋<br>A passionate software developer with a MERN development skills and focus on cross platform apps , DSA with Java and Artificial intellegence and Machine learning .<br><br>## 🚀 About Me<br>- 🔭 I’m currently working on codewithnagraj ( portfolio ).<br>- 🌱 I’m currently learning Ai and Machine Larning.<br>- 👯 I’m looking to collaborate on ShiledX.<br>- 💬 Ask me about MERN Development .<br>- 📫 How to reach me: nagrajnandal43@gmail.com.<br><br>
+# Hello, I'm Nagraj Nandal 👋<br>A passionate software developer with a MERN development skills and focus on cross platform apps , DSA with Java and Artificial intellegence and Machine learning .<br><br>## 🚀 About Me<br>- 🔭 I’m currently working on  Aitut - Ai based tutoring and mentoring platform.<br>- 🌱 I’m currently learning Ai and Machine Larning.<br>- 👯 I’m looking to collaborate on ShiledX.<br>- 💬 Ask me about MERN Development .<br>- 📫 How to reach me: nagrajnandal43@gmail.com.<br><br>
 
 
 ## 🌐 Socials:
