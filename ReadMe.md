@@ -1,65 +1,199 @@
-# 💫 About Me:
-# Hello, I'm Nagraj Nandal 👋<br>A passionate software developer with a MERN development skills and focus on cross platform apps , DSA with Java and Artificial intellegence and Machine learning .<br><br>## 🚀 About Me<br>- 🔭 I’m currently working on Aitut - Ai based tutoring app.<br>- 🌱 I’m currently learning Ai and Machine Larning.<br>- 👯 I’m looking to collaborate on ShiledX.<br>- 💬 Ask me about MERN Development .<br>- 📫 How to reach me: nagrajnandal43@gmail.com.<br><br>
+<h1 align="center">Hi 👋, I'm Nagraj Nandal</h1>
+<h3 align="center">Software Engineer | Java Backend Developer | Full Stack Developer</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nagraj_np2308) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nagraj-nandal-71a361333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagrajnandal43@gmail.com) 
-
-
-# 💻 Tech Stack:
-
-### 🚀 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-### 🖥️ Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-### 🎨 Design & Prototyping
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nagraj23&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nagraj23&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagraj23&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nagraj23&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nagraj23&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nagraj23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Professional Summary
+
+Computer Science Engineering student with a strong foundation in Java, Spring Boot, Full Stack Development, and AI-powered applications.
+
+Experienced in designing and developing scalable web and mobile applications, building REST APIs, optimizing backend performance, and working across the complete Software Development Life Cycle (SDLC).
+
+Passionate about backend engineering, system design, problem solving, and creating technology solutions that solve real-world challenges.
+
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Engineering (2026)
+
+📊 CGPA: **9.59 / 10**
+
+💼 Software Developer Intern (Full Stack Java Enterprise)
+
+🔭 Currently Building **AI-Tut – AI Powered Tutoring Platform**
+
+🌱 Currently Learning
+- System Design
+- Spring Boot Advanced Concepts
+- Microservices
+- AI Engineering
+
+💬 Ask Me About
+- Java
+- Spring Boot
+- React
+- REST APIs
+- Full Stack Development
+
+📫 Reach Me
+**nagrajnandal43@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/nagraj-nandal-71a361333" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/Nagraj23" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://instagram.com/nagraj_np2308" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+</p>
+
+---
+
+# 🏆 Featured Projects
+
+## 🤖 AI-Tut – AI Powered Tutoring Platform
+
+An intelligent tutoring platform designed to provide personalized learning experiences using Artificial Intelligence and modern backend architecture.
+
+### Key Features
+
+- 🧠 AI-powered doubt solving and tutoring assistance
+- 📚 Personalized learning sessions
+- 💬 Interactive chat-based learning experience
+- 📈 Progress tracking and learning history
+- 🔐 Secure user authentication and account management
+- ⚡ Optimized backend with asynchronous processing
+- 📡 RESTful API architecture for scalability
+- 🚀 Designed to support concurrent AI tutoring sessions
+
+### Tech Stack
+
+`FastAPI` • `Python` • `PostgreSQL` • `AI APIs` • `Docker`
+
+---
+
+## 🛡️ ShieldX – Smart Personal Safety Platform
+
+A cross-platform mobile application focused on enhancing personal safety through real-time emergency response and location tracking.
+
+### Key Features
+
+- 🚨 One-tap SOS emergency alerts
+- 📍 Real-time live location sharing
+- 👨‍👩‍👧 Emergency contact notifications
+- 🔔 Instant alert delivery system
+- 📱 Cross-platform mobile support
+- 🗺️ GPS-based tracking and monitoring
+- 🔒 Secure communication architecture
+- ⚡ Real-time backend processing
+
+### Tech Stack
+
+`React Native` • `FastAPI` • `MySQL`
+
+---
+
+## 🏢 Enterprise Business Applications
+
+Designed and developed production-grade enterprise applications during internship experience.
+
+### Highlights
+
+- Built scalable REST APIs using Spring Boot
+- Developed full-stack applications using React.js
+- Designed relational database schemas
+- Implemented authentication and role-based access
+- Optimized backend performance and API response times
+- Worked across the complete SDLC
+- Performed testing, debugging, deployment, and documentation
+
+### Tech Stack
+
+`Spring Boot` • `React.js` • `MySQL` • `PostgreSQL`
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
+</p>
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+## Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+## Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nagraj23&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagraj23&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagraj23&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Solve 200+ LeetCode Problems
+- ✅ Master Java Backend Development
+- ✅ Build Production-Ready Applications
+- ✅ Contribute to Open Source
+- ✅ Learn System Design & Microservices
+- ✅ Secure a Software Engineer Role
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy building software that combines modern engineering practices with Artificial Intelligence to solve real-world problems.
