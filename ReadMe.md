@@ -172,10 +172,7 @@ A cross-platform mobile application focused on enhancing personal safety through
 - ✅ Learn System Design & Microservices
 - ✅ Secure a Software Engineer Role
 
----
-## 📈 Contribution Graph
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ### ⚡ Fun Fact
 
