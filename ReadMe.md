@@ -107,27 +107,7 @@ A cross-platform mobile application focused on enhancing personal safety through
 
 `React Native` • `FastAPI` • `MySQL`
 
----
 
-## 🏢 Enterprise Business Applications
-
-Designed and developed production-grade enterprise applications during internship experience.
-
-### Highlights
-
-- Built scalable REST APIs using Spring Boot
-- Developed full-stack applications using React.js
-- Designed relational database schemas
-- Implemented authentication and role-based access
-- Optimized backend performance and API response times
-- Worked across the complete SDLC
-- Performed testing, debugging, deployment, and documentation
-
-### Tech Stack
-
-`Spring Boot` • `React.js` • `MySQL` • `PostgreSQL`
-
----
 
 # 💻 Tech Stack
 
@@ -193,6 +173,9 @@ Designed and developed production-grade enterprise applications during internshi
 - ✅ Secure a Software Engineer Role
 
 ---
+## 📈 Contribution Graph
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ### ⚡ Fun Fact
 
